@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\bin\Debug\01.Shapes.exe.config
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\bin\Debug\01.Shapes.exe
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\bin\Debug\01.Shapes.pdb
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\obj\Debug\01.Shapes.exe
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\01.Shapes\obj\Debug\01.Shapes.pdb

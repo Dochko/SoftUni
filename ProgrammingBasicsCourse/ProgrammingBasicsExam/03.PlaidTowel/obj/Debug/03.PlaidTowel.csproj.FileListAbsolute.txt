@@ -1,0 +1,5 @@
+D:\C#\Projects\ProgrammingBasicsExam\03.PlaidTowel\bin\Debug\03.PlaidTowel.exe.config
+D:\C#\Projects\ProgrammingBasicsExam\03.PlaidTowel\bin\Debug\03.PlaidTowel.exe
+D:\C#\Projects\ProgrammingBasicsExam\03.PlaidTowel\bin\Debug\03.PlaidTowel.pdb
+D:\C#\Projects\ProgrammingBasicsExam\03.PlaidTowel\obj\Debug\03.PlaidTowel.exe
+D:\C#\Projects\ProgrammingBasicsExam\03.PlaidTowel\obj\Debug\03.PlaidTowel.pdb

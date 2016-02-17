@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\bin\Debug\02.InterestCalculator.exe.config
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\bin\Debug\02.InterestCalculator.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\bin\Debug\02.InterestCalculator.pdb
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\obj\Debug\02.InterestCalculator.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\obj\Debug\02.InterestCalculator.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\02.InterestCalculator\obj\Debug\02.InterestCalculator.pdb

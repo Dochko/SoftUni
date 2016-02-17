@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\01.TheFootballStatistician\bin\Debug\01.TheFootballStatistician.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\01.TheFootballStatistician\bin\Debug\01.TheFootballStatistician.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\01.TheFootballStatistician\bin\Debug\01.TheFootballStatistician.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\01.TheFootballStatistician\obj\Debug\01.TheFootballStatistician.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\01.TheFootballStatistician\obj\Debug\01.TheFootballStatistician.pdb

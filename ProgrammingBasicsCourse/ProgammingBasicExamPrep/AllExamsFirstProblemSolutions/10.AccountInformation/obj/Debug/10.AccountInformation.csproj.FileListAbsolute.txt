@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\10.AccountInformation\bin\Debug\10.AccountInformation.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\10.AccountInformation\bin\Debug\10.AccountInformation.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\10.AccountInformation\bin\Debug\10.AccountInformation.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\10.AccountInformation\obj\Debug\10.AccountInformation.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\10.AccountInformation\obj\Debug\10.AccountInformation.pdb

@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\bin\Debug\02.UsingDoWhileLoop.exe.config
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\bin\Debug\02.UsingDoWhileLoop.exe
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\bin\Debug\02.UsingDoWhileLoop.pdb
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\obj\Debug\02.UsingDoWhileLoop.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\obj\Debug\02.UsingDoWhileLoop.exe
+E:\Work\C#\Projects\Loops\02.UsingDoWhileLoop\obj\Debug\02.UsingDoWhileLoop.pdb

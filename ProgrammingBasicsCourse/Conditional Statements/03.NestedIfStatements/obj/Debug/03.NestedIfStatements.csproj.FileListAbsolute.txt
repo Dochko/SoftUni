@@ -1,0 +1,5 @@
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\03.NestedIfStatements\bin\Debug\03.NestedIfStatements.exe.config
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\03.NestedIfStatements\bin\Debug\03.NestedIfStatements.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\03.NestedIfStatements\bin\Debug\03.NestedIfStatements.pdb
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\03.NestedIfStatements\obj\Debug\03.NestedIfStatements.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\03.NestedIfStatements\obj\Debug\03.NestedIfStatements.pdb

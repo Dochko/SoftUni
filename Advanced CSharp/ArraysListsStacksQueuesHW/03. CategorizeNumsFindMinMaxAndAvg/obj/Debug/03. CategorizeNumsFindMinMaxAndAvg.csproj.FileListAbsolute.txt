@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\bin\Debug\CategorizeNumsFindMinMaxAndAvg.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\bin\Debug\CategorizeNumsFindMinMaxAndAvg.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\bin\Debug\CategorizeNumsFindMinMaxAndAvg.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\obj\Debug\03. CategorizeNumsFindMinMaxAndAvg.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\obj\Debug\CategorizeNumsFindMinMaxAndAvg.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\03. CategorizeNumsFindMinMaxAndAvg\obj\Debug\CategorizeNumsFindMinMaxAndAvg.pdb

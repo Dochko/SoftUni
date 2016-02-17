@@ -1,0 +1,6 @@
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\bin\Debug\02.ReformatYourOwnCode.exe.config
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\bin\Debug\02.ReformatYourOwnCode.exe
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\bin\Debug\02.ReformatYourOwnCode.pdb
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\obj\Debug\02. ReformatYourOwnCode.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\obj\Debug\02.ReformatYourOwnCode.exe
+E:\Work\C#\HighQualityCode\CodeFormattingHW\02. ReformatYourOwnCode\obj\Debug\02.ReformatYourOwnCode.pdb

@@ -1,0 +1,9 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.XML
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.XML
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

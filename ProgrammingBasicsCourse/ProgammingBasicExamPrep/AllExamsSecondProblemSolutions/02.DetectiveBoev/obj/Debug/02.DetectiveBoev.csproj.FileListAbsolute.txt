@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.csprojResolveAssemblyReference.cache

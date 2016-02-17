@@ -1,0 +1,5 @@
+E:\Work\C#\Projects\Loops\04.ContinueOperator\bin\Debug\04.ContinueOperator.exe.config
+E:\Work\C#\Projects\Loops\04.ContinueOperator\bin\Debug\04.ContinueOperator.exe
+E:\Work\C#\Projects\Loops\04.ContinueOperator\bin\Debug\04.ContinueOperator.pdb
+E:\Work\C#\Projects\Loops\04.ContinueOperator\obj\Debug\04.ContinueOperator.exe
+E:\Work\C#\Projects\Loops\04.ContinueOperator\obj\Debug\04.ContinueOperator.pdb

@@ -1,0 +1,1 @@
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\04.Namespaces\bin\Debug\04.Namespaces.exe.config

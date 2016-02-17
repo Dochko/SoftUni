@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\bin\Debug\04.ChessBoardGame.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\bin\Debug\04.ChessBoardGame.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\bin\Debug\04.ChessBoardGame.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\obj\Debug\04.ChessBoardGame.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\obj\Debug\04.ChessBoardGame.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\04.ChessBoardGame\obj\Debug\04.ChessBoardGame.pdb

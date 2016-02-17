@@ -1,0 +1,5 @@
+E:\Work\C#\Projects\CSharpAdvancedTopics\03.ListsOfElements\bin\Debug\03.ListsOfElements.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopics\03.ListsOfElements\bin\Debug\03.ListsOfElements.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\03.ListsOfElements\bin\Debug\03.ListsOfElements.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopics\03.ListsOfElements\obj\Debug\03.ListsOfElements.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\03.ListsOfElements\obj\Debug\03.ListsOfElements.pdb

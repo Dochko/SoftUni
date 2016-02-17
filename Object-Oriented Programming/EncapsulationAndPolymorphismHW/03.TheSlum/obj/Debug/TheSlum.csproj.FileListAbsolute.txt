@@ -1,0 +1,12 @@
+C:\Users\AboveAll\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\AboveAll\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\AboveAll\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\AboveAll\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\AboveAll\Downloads\04. OOP-Encapsulation-and-Polymorphism-Homework\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Dochko\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Dochko\Desktop\EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.exe
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.pdb
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.exe
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.pdb
+E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache

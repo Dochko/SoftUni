@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb

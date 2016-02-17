@@ -1,0 +1,3 @@
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\3. Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\3. Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\3. Minesweeper\obj\Debug\Minesweeper.pdb

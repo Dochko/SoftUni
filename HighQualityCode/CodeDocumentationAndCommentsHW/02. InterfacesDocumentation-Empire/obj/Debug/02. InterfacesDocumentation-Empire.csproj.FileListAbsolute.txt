@@ -1,0 +1,6 @@
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\bin\Debug\Empire.exe.config
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\obj\Debug\Empire.exe
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\obj\Debug\Empire.pdb
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. InterfacesDocumentation-Empire\bin\Debug\Empire.exe.config
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. InterfacesDocumentation-Empire\obj\Debug\Empire.exe
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. InterfacesDocumentation-Empire\obj\Debug\Empire.pdb

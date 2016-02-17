@@ -1,0 +1,9 @@
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\bin\Debug\02.Customer.exe.config
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\bin\Debug\02.Customer.exe
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\bin\Debug\02.Customer.pdb
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\obj\Debug\02.Customer.csprojResolveAssemblyReference.cache
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\obj\Debug\02.Customer.exe
+C:\Users\Dochko\Desktop\OOP-Common-Type-System-Homework\02.Customer\obj\Debug\02.Customer.pdb
+C:\Users\Dochko\Desktop\CommonTypeSystemHW\02.Customer\bin\Debug\02.Customer.exe.config
+C:\Users\Dochko\Desktop\CommonTypeSystemHW\02.Customer\obj\Debug\02.Customer.exe
+C:\Users\Dochko\Desktop\CommonTypeSystemHW\02.Customer\obj\Debug\02.Customer.pdb

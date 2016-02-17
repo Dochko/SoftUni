@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\bin\Debug\03.Paths.exe.config
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\bin\Debug\03.Paths.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\bin\Debug\03.Paths.pdb
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\obj\Debug\03.Paths.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\03.Paths\obj\Debug\03.Paths.pdb

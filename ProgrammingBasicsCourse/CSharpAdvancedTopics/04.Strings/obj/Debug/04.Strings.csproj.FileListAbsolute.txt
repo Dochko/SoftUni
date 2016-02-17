@@ -1,0 +1,5 @@
+E:\Work\C#\Projects\CSharpAdvancedTopics\04.Strings\bin\Debug\04.Strings.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopics\04.Strings\bin\Debug\04.Strings.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\04.Strings\bin\Debug\04.Strings.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopics\04.Strings\obj\Debug\04.Strings.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\04.Strings\obj\Debug\04.Strings.pdb

@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe.config
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.pdb
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.pdb

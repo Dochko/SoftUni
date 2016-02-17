@@ -1,0 +1,8 @@
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\bin\Debug\Logger.exe.config
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\bin\Debug\Logger.exe
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\bin\Debug\Logger.pdb
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\bin\Debug\LoggerLibrary.dll
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\bin\Debug\LoggerLibrary.pdb
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\obj\Debug\Logger.exe
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\Logger\obj\Debug\Logger.pdb

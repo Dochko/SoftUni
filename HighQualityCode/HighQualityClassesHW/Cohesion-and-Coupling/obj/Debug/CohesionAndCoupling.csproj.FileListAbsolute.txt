@@ -1,0 +1,8 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.XML
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.XML
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+E:\Work\C#\HighQualityCode\HighQualityClassesHW\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

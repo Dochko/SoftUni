@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\bin\Debug\SequencesOfEqualStrings.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\bin\Debug\SequencesOfEqualStrings.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\bin\Debug\SequencesOfEqualStrings.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\obj\Debug\04. SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\obj\Debug\SequencesOfEqualStrings.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\04. SequencesOfEqualStrings\obj\Debug\SequencesOfEqualStrings.pdb

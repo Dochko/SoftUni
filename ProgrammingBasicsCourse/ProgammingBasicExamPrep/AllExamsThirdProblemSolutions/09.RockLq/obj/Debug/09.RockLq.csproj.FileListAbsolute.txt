@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\09.RockLq\bin\Debug\09.RockLq.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\09.RockLq\bin\Debug\09.RockLq.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\09.RockLq\bin\Debug\09.RockLq.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\09.RockLq\obj\Debug\09.RockLq.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\09.RockLq\obj\Debug\09.RockLq.pdb

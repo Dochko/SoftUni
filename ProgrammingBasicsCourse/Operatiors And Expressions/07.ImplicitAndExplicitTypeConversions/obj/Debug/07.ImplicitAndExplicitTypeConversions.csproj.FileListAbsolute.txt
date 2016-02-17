@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\bin\Debug\07.ImplicitAndExplicitTypeConversions.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\bin\Debug\07.ImplicitAndExplicitTypeConversions.exe
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\bin\Debug\07.ImplicitAndExplicitTypeConversions.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\obj\Debug\07.ImplicitAndExplicitTypeConversions.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\obj\Debug\07.ImplicitAndExplicitTypeConversions.exe
+E:\Work\C#\Projects\Operatiors And Expressions\07.ImplicitAndExplicitTypeConversions\obj\Debug\07.ImplicitAndExplicitTypeConversions.pdb

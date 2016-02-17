@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\bin\Debug\03.Bitwise Operators.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\bin\Debug\03.Bitwise Operators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\bin\Debug\03.Bitwise Operators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\obj\Debug\03.Bitwise Operators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\obj\Debug\03.Bitwise Operators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\03.Bitwise Operators\obj\Debug\03.Bitwise Operators.csprojResolveAssemblyReference.cache

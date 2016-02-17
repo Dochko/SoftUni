@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Abstraction</name>
+    </assembly>
+    <members>
+        <member name="T:Abstraction.Figures.Circle">
+            <summary>
+            The Circle Class
+            </summary>
+            <seealso cref="T:Abstraction.Figures.Figure" />
+            <seealso cref="T:Abstraction.Contracts.ICircle" />
+        </member>
+        <member name="M:Abstraction.Figures.Circle.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Abstraction.Figures.Circle"/> class.
+            </summary>
+            <param name="radius">The radius.</param>
+        </member>
+        <member name="T:Abstraction.Figures.Figure">
+            <summary>
+            The Figure Class
+            </summary>
+            <seealso cref="T:Abstraction.Contracts.IFigure" />
+        </member>
+        <member name="T:Abstraction.Figures.Rectangle">
+            <summary>
+            The Rectangle Class
+            </summary>
+            <seealso cref="T:Abstraction.Figures.Figure" />
+            <seealso cref="T:Abstraction.Contracts.IRectangle" />
+        </member>
+        <member name="M:Abstraction.Figures.Rectangle.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Abstraction.Figures.Rectangle"/> class.
+            </summary>
+            <param name="width">The width.</param>
+            <param name="height">The height.</param>
+        </member>
+        <member name="T:Abstraction.Contracts.ICircle">
+            <summary>
+            The Circle Interface
+            </summary>
+            <seealso cref="T:Abstraction.Contracts.IFigure" />
+        </member>
+        <member name="P:Abstraction.Contracts.ICircle.Radius">
+            <summary>
+            Gets or sets the radius of a circle.
+            </summary>
+            <value>
+            The radius.
+            </value>
+        </member>
+        <member name="T:Abstraction.Contracts.IFigure">
+            <summary>
+            The Figure Interface
+            </summary>
+        </member>
+        <member name="M:Abstraction.Contracts.IFigure.CalcPerimeter">
+            <summary>
+            Calculates the perimeter of a figure.
+            </summary>
+            <returns>Returns the calculated perimeter of a figure</returns>
+        </member>
+        <member name="M:Abstraction.Contracts.IFigure.CalcSurface">
+            <summary>
+            Calculates the surface of a figure.
+            </summary>
+            <returns>Returns the calculated surface of a figure</returns>
+        </member>
+        <member name="T:Abstraction.Contracts.IRectangle">
+            <summary>
+            The Rectangle Interface
+            </summary>
+            <seealso cref="T:Abstraction.Contracts.IFigure" />
+        </member>
+        <member name="P:Abstraction.Contracts.IRectangle.Width">
+            <summary>
+            Gets or sets the width of an rectangle.
+            </summary>
+            <value>
+            The width.
+            </value>
+        </member>
+        <member name="P:Abstraction.Contracts.IRectangle.Height">
+            <summary>
+            Gets or sets the height of an rectangle.
+            </summary>
+            <value>
+            The height.
+            </value>
+        </member>
+        <member name="T:Abstraction.FiguresExample">
+            <summary>
+            A demo for the Figure, Circle and Rectangle classes.
+            </summary>
+        </member>
+        <member name="M:Abstraction.FiguresExample.Main">
+            <summary>
+            Defines the entry point of the application.
+            </summary>
+        </member>
+    </members>
+</doc>

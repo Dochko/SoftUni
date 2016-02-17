@@ -1,0 +1,12 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.XML
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\HighQualityMethodsHW\bin\Debug\Methods.XML
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\HighQualityMethodsHW\obj\Debug\Methods.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\07. High-Quality-Methods-Homework\HighQualityMethodsHW\obj\Debug\Methods.pdb
+E:\Work\C#\HighQualityCode\HighQualityMethodsHW\bin\Debug\Methods.XML
+E:\Work\C#\HighQualityCode\HighQualityMethodsHW\obj\Debug\Methods.exe
+E:\Work\C#\HighQualityCode\HighQualityMethodsHW\obj\Debug\Methods.pdb

@@ -1,0 +1,5 @@
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\LoggerLibrary\bin\Debug\LoggerLibrary.dll
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\LoggerLibrary\bin\Debug\LoggerLibrary.pdb
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\LoggerLibrary\obj\Debug\LoggerLibrary.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\LoggerLibrary\obj\Debug\LoggerLibrary.dll
+E:\Work\C#\HighQualityCode\SOLIDPrinciplesHW\LoggerLibrary\obj\Debug\LoggerLibrary.pdb

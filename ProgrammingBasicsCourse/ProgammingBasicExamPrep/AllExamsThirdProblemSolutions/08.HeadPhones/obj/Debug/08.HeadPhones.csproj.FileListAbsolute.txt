@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\08.HeadPhones\bin\Debug\08.HeadPhones.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\08.HeadPhones\bin\Debug\08.HeadPhones.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\08.HeadPhones\bin\Debug\08.HeadPhones.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\08.HeadPhones\obj\Debug\08.HeadPhones.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\08.HeadPhones\obj\Debug\08.HeadPhones.pdb

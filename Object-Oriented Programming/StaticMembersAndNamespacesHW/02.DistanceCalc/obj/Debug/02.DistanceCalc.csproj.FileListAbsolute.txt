@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\bin\Debug\02.DistanceCalc.exe.config
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\bin\Debug\02.DistanceCalc.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\bin\Debug\02.DistanceCalc.pdb
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\obj\Debug\02.DistanceCalc.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\obj\Debug\02.DistanceCalc.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\02.DistanceCalc\obj\Debug\02.DistanceCalc.pdb

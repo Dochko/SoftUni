@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\08. NightLife\bin\Debug\NightLife.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\08. NightLife\bin\Debug\NightLife.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\08. NightLife\bin\Debug\NightLife.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\08. NightLife\obj\Debug\NightLife.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\08. NightLife\obj\Debug\NightLife.pdb

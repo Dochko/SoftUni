@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\13.TicTacToePower\bin\Debug\13.TicTacToePower.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\13.TicTacToePower\bin\Debug\13.TicTacToePower.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\13.TicTacToePower\bin\Debug\13.TicTacToePower.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\13.TicTacToePower\obj\Debug\13.TicTacToePower.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\13.TicTacToePower\obj\Debug\13.TicTacToePower.pdb

@@ -1,0 +1,15 @@
+26-Jan-16 21:59:22 - Error - Error parsing JSON.
+26-Jan-16 21:59:22 - Info - User Dobri successfully registered.
+26-Jan-16 21:59:22 - Warning - Warning - missing files.
+26-Jan-16 22:00:43 - Error - Error parsing JSON.
+26-Jan-16 22:00:43 - Info - User Dobri successfully registered.
+26-Jan-16 22:00:43 - Warning - Warning - missing files.
+26-Jan-16 22:00:54 - Error - Error parsing JSON.
+26-Jan-16 22:00:54 - Info - User Dobri successfully registered.
+26-Jan-16 22:00:54 - Warning - Warning - missing files.
+26-Jan-16 22:00:57 - Error - Error parsing JSON.
+26-Jan-16 22:00:57 - Info - User Dobri successfully registered.
+26-Jan-16 22:00:57 - Warning - Warning - missing files.
+26-Jan-16 22:00:58 - Error - Error parsing JSON.
+26-Jan-16 22:00:58 - Info - User Dobri successfully registered.
+26-Jan-16 22:00:58 - Warning - Warning - missing files.

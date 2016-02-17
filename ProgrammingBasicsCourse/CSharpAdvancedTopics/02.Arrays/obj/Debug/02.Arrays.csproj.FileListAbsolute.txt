@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\bin\Debug\02.Arrays.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\bin\Debug\02.Arrays.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\bin\Debug\02.Arrays.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\obj\Debug\02.Arrays.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\obj\Debug\02.Arrays.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\02.Arrays\obj\Debug\02.Arrays.pdb

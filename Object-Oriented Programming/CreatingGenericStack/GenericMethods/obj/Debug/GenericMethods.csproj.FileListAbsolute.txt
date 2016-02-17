@@ -1,0 +1,9 @@
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\bin\Debug\GenericMethods.exe.config
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\bin\Debug\GenericMethods.exe
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\bin\Debug\GenericMethods.pdb
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\obj\Debug\GenericMethods.exe
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\obj\Debug\GenericMethods.pdb
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericMethods\obj\Debug\GenericMethods.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericMethods\bin\Debug\GenericMethods.exe.config
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericMethods\obj\Debug\GenericMethods.exe
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericMethods\obj\Debug\GenericMethods.pdb

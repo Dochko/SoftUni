@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.exe.config
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.pdb
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.exe
+E:\Work\C#\Object-Oriented Programming\StaticMembersAndNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.pdb

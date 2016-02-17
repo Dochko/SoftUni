@@ -1,0 +1,6 @@
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\bin\Debug\02.IfAndIf-Else.exe.config
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\bin\Debug\02.IfAndIf-Else.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\bin\Debug\02.IfAndIf-Else.pdb
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\obj\Debug\02.IfAndIf-Else.csprojResolveAssemblyReference.cache
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\obj\Debug\02.IfAndIf-Else.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\02.IfAndIf-Else\obj\Debug\02.IfAndIf-Else.pdb

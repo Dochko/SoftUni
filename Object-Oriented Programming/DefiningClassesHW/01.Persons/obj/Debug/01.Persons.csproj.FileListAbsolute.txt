@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\bin\Debug\01.Persons.exe.config
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\bin\Debug\01.Persons.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\bin\Debug\01.Persons.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\obj\Debug\01.Persons.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\01.Persons\obj\Debug\01.Persons.pdb

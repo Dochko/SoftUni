@@ -1,0 +1,8 @@
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\obj\Debug\04. FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\04. FirstLargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb

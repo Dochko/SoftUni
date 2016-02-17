@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\bin\Debug\BiggerNumber.exe.config
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\bin\Debug\BiggerNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\bin\Debug\BiggerNumber.pdb
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\obj\Debug\01. BiggerNumber.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\obj\Debug\BiggerNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\01. BiggerNumber\obj\Debug\BiggerNumber.pdb

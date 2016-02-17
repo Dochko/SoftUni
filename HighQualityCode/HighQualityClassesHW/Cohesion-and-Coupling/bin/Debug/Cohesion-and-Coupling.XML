@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cohesion-and-Coupling</name>
+    </assembly>
+    <members>
+        <member name="T:CohesionAndCoupling.Utilities.GeometryUtilities.GeometrynUtilities">
+            <summary>
+            A class which contains geometry utilities.
+            </summary>
+        </member>
+        <member name="M:CohesionAndCoupling.Utilities.GeometryUtilities.GeometrynUtilities.CalcDistance2D(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates the distance between two points in two dimensional space.
+            </summary>
+            <param name="x1">X coordinates of the first point.</param>
+            <param name="y1">Y coordinates of the first point.</param>
+            <param name="x2">X coordinates of the second point.</param>
+            <param name="y2">Y coordinates of the second point.</param>
+            <returns>Returns the distance between two points in two dimensional space.</returns>
+        </member>
+        <member name="M:CohesionAndCoupling.Utilities.GeometryUtilities.GeometrynUtilities.CalcDistance3D(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates the distance between two points in three dimensional space.
+            </summary>
+            <param name="x1">X coordinates of the first point.</param>
+            <param name="y1">Y coordinates of the first point.</param>
+            <param name="z1">Z coordinates of the first point.</param>
+            <param name="x2">X coordinates of the second point.</param>
+            <param name="y2">Y coordinates of the second point.</param>
+            <param name="z2">Z coordinates of the second point.</param>
+            <returns>Returns the distance between two points in three dimensional space.</returns>
+        </member>
+        <member name="T:CohesionAndCoupling.Utilities.FileUtilities.FileUtilities">
+            <summary>
+            A class which contains utilities for displaying file names.
+            </summary>
+        </member>
+        <member name="M:CohesionAndCoupling.Utilities.FileUtilities.FileUtilities.GetFileExtension(System.String)">
+            <summary>
+            Gets the file extension.
+            </summary>
+            <param name="fileName">Name of the file extension.</param>
+            <returns>The extension of the file</returns>
+        </member>
+        <member name="M:CohesionAndCoupling.Utilities.FileUtilities.FileUtilities.GetFileNameWithoutExtension(System.String)">
+            <summary>
+            Gets the file name without extension.
+            </summary>
+            <param name="fileName">Name of the file.</param>
+            <returns>Returns the file name without extension.</returns>
+        </member>
+        <member name="T:CohesionAndCoupling.Contracts.IShape">
+            <summary>
+            The Shape Interface which describes a box.
+            </summary>
+        </member>
+        <member name="P:CohesionAndCoupling.Contracts.IShape.Width">
+            <summary>
+            Gets or sets the width of the box.
+            </summary>
+            <value>
+            The width.
+            </value>
+        </member>
+        <member name="P:CohesionAndCoupling.Contracts.IShape.Height">
+            <summary>
+            Gets or sets the height of the box.
+            </summary>
+            <value>
+            The height.
+            </value>
+        </member>
+        <member name="P:CohesionAndCoupling.Contracts.IShape.Depth">
+            <summary>
+            Gets or sets the depth of the box.
+            </summary>
+            <value>
+            The depth.
+            </value>
+        </member>
+        <member name="M:CohesionAndCoupling.Contracts.IShape.CalcVolume">
+            <summary>
+            Calculates the volume.
+            </summary>
+            <returns>Returns the calculated volume of the box.</returns>
+        </member>
+        <member name="T:CohesionAndCoupling.UtilsExamples">
+            <summary>
+            A demo of the CohesionAndCoupling utilities.
+            </summary>
+        </member>
+        <member name="M:CohesionAndCoupling.UtilsExamples.Main">
+            <summary>
+            Defines the entry point of the application.
+            </summary>
+        </member>
+        <member name="T:CohesionAndCoupling.Models.Shape">
+            <summary>
+            A class, which describes a box.
+            </summary>
+            <seealso cref="T:CohesionAndCoupling.Contracts.IShape" />
+        </member>
+        <member name="M:CohesionAndCoupling.Models.Shape.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:CohesionAndCoupling.Models.Shape"/> class.
+            </summary>
+            <param name="width">The width.</param>
+            <param name="height">The height.</param>
+            <param name="depth">The depth.</param>
+        </member>
+    </members>
+</doc>

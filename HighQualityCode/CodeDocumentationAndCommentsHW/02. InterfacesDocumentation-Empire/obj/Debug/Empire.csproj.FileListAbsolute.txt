@@ -1,0 +1,9 @@
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\bin\Debug\Empire.exe.config
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\bin\Debug\Empire.exe
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\bin\Debug\Empire.pdb
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\obj\Debug\Empire.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\obj\Debug\Empire.exe
+E:\Work\C#\Object-Oriented Programming\OOP Exams\Empire\Empire\obj\Debug\Empire.pdb
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\bin\Debug\Empire.exe.config
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\obj\Debug\Empire.exe
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\02. Empire\obj\Debug\Empire.pdb

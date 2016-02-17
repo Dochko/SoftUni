@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\bin\Debug\12.Budget.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\bin\Debug\12.Budget.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\bin\Debug\12.Budget.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\obj\Debug\12.Budget.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\obj\Debug\12.Budget.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\12.Budget\obj\Debug\12.Budget.pdb

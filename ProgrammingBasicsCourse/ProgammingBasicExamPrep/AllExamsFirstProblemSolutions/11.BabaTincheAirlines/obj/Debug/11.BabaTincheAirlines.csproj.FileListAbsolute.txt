@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\bin\Debug\11.BabaTincheAirlines.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\bin\Debug\11.BabaTincheAirlines.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\bin\Debug\11.BabaTincheAirlines.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\obj\Debug\11.BabaTincheAirlines.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\obj\Debug\11.BabaTincheAirlines.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\11.BabaTincheAirlines\obj\Debug\11.BabaTincheAirlines.pdb

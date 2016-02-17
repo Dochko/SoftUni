@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.exe.config
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.exe
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.pdb
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\obj\Debug\ConsoleInAndOut.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\obj\Debug\ConsoleInAndOut.exe
+E:\Work\C#\Projects\ConsoleInAndOut\ConsoleInAndOut\obj\Debug\ConsoleInAndOut.pdb

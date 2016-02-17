@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\bin\Debug\07.PiggyBank.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\bin\Debug\07.PiggyBank.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\bin\Debug\07.PiggyBank.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\obj\Debug\07.PiggyBank.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\obj\Debug\07.PiggyBank.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\07.PiggyBank\obj\Debug\07.PiggyBank.pdb

@@ -1,0 +1,6 @@
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb

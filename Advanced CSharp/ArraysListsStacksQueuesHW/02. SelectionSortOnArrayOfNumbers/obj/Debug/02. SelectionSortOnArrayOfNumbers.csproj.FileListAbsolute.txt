@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\02. SelectionSortOnArrayOfNumbers\bin\Debug\SelectionSortOnArrayOfNumbers.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\02. SelectionSortOnArrayOfNumbers\bin\Debug\SelectionSortOnArrayOfNumbers.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\02. SelectionSortOnArrayOfNumbers\bin\Debug\SelectionSortOnArrayOfNumbers.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\02. SelectionSortOnArrayOfNumbers\obj\Debug\SelectionSortOnArrayOfNumbers.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\02. SelectionSortOnArrayOfNumbers\obj\Debug\SelectionSortOnArrayOfNumbers.pdb

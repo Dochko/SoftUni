@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\03.ForLoops\bin\Debug\03.ForLoops.exe.config
+E:\Work\C#\Projects\Loops\03.ForLoops\bin\Debug\03.ForLoops.exe
+E:\Work\C#\Projects\Loops\03.ForLoops\bin\Debug\03.ForLoops.pdb
+E:\Work\C#\Projects\Loops\03.ForLoops\obj\Debug\03.ForLoops.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Loops\03.ForLoops\obj\Debug\03.ForLoops.exe
+E:\Work\C#\Projects\Loops\03.ForLoops\obj\Debug\03.ForLoops.pdb

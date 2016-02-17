@@ -1,0 +1,9 @@
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\bin\Debug\GenericStack.exe
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\bin\Debug\GenericStack.pdb
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\obj\Debug\GenericStack.exe
+E:\Work\C#\TeamworkProject\CreatingGenericStack\GenericStack\obj\Debug\GenericStack.pdb
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericStack\obj\Debug\GenericStack.exe
+E:\Work\C#\Object-Oriented Programming\CreatingGenericStack\GenericStack\obj\Debug\GenericStack.pdb

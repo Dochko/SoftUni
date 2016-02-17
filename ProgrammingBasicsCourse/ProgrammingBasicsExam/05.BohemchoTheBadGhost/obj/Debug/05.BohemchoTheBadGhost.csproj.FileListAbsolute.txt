@@ -1,0 +1,6 @@
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\bin\Debug\05.BohemchoTheBadGhost.exe.config
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\bin\Debug\05.BohemchoTheBadGhost.exe
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\bin\Debug\05.BohemchoTheBadGhost.pdb
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\obj\Debug\05.BohemchoTheBadGhost.csprojResolveAssemblyReference.cache
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\obj\Debug\05.BohemchoTheBadGhost.exe
+D:\C#\Projects\ProgrammingBasicsExam\05.BohemchoTheBadGhost\obj\Debug\05.BohemchoTheBadGhost.pdb

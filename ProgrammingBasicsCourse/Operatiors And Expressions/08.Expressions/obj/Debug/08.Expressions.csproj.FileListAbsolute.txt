@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\bin\Debug\08.Expressions.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\bin\Debug\08.Expressions.exe
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\bin\Debug\08.Expressions.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\obj\Debug\08.Expressions.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\obj\Debug\08.Expressions.exe
+E:\Work\C#\Projects\Operatiors And Expressions\08.Expressions\obj\Debug\08.Expressions.pdb

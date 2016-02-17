@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\05.MagicWand\bin\Debug\05.MagicWand.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\05.MagicWand\bin\Debug\05.MagicWand.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\05.MagicWand\bin\Debug\05.MagicWand.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\05.MagicWand\obj\Debug\05.MagicWand.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\05.MagicWand\obj\Debug\05.MagicWand.pdb

@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\bin\Debug\01.UsingBuildInDotNetClasses.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\bin\Debug\01.UsingBuildInDotNetClasses.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\bin\Debug\01.UsingBuildInDotNetClasses.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\obj\Debug\01.UsingBuildInDotNetClasses.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\obj\Debug\01.UsingBuildInDotNetClasses.exe
+E:\Work\C#\Projects\CSharpAdvancedTopics\01.UsingBuildInDotNetClasses\obj\Debug\01.UsingBuildInDotNetClasses.pdb

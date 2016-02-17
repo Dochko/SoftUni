@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\bin\Debug\03.GenericList.exe.config
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\bin\Debug\03.GenericList.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\bin\Debug\03.GenericList.pdb
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\obj\Debug\03.GenericList.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\obj\Debug\03.GenericList.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\03.GenericList\obj\Debug\03.GenericList.pdb

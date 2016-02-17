@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\bin\Debug\08.TravellerBob.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\bin\Debug\08.TravellerBob.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\bin\Debug\08.TravellerBob.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\obj\Debug\08.TravellerBob.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\obj\Debug\08.TravellerBob.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\08.TravellerBob\obj\Debug\08.TravellerBob.pdb

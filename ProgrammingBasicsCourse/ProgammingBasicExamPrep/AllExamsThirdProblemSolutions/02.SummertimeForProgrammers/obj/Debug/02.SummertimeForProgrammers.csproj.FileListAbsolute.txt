@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\bin\Debug\02.SummertimeForProgrammers.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\bin\Debug\02.SummertimeForProgrammers.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\bin\Debug\02.SummertimeForProgrammers.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\obj\Debug\02.SummertimeForProgrammers.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\obj\Debug\02.SummertimeForProgrammers.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\02.SummertimeForProgrammers\obj\Debug\02.SummertimeForProgrammers.pdb

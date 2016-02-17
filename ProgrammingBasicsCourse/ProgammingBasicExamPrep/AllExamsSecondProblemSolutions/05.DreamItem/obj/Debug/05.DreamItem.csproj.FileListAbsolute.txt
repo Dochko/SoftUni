@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\bin\Debug\05.DreamItem.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\bin\Debug\05.DreamItem.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\bin\Debug\05.DreamItem.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\obj\Debug\05.DreamItem.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\obj\Debug\05.DreamItem.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\05.DreamItem\obj\Debug\05.DreamItem.pdb

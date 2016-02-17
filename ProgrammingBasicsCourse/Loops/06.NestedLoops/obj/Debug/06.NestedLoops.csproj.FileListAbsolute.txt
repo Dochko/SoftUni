@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\06.NestedLoops\bin\Debug\06.NestedLoops.exe.config
+E:\Work\C#\Projects\Loops\06.NestedLoops\obj\Debug\06.NestedLoops.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Loops\06.NestedLoops\bin\Debug\06.NestedLoops.exe
+E:\Work\C#\Projects\Loops\06.NestedLoops\bin\Debug\06.NestedLoops.pdb
+E:\Work\C#\Projects\Loops\06.NestedLoops\obj\Debug\06.NestedLoops.exe
+E:\Work\C#\Projects\Loops\06.NestedLoops\obj\Debug\06.NestedLoops.pdb

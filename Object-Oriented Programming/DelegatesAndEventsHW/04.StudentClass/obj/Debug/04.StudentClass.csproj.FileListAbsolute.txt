@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\bin\Debug\04.StudentClass.exe.config
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\bin\Debug\04.StudentClass.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\bin\Debug\04.StudentClass.pdb
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\obj\Debug\04.StudentClass.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\obj\Debug\04.StudentClass.exe
+E:\Work\C#\Object-Oriented Programming\DelegatesAndEventsHW\04.StudentClass\obj\Debug\04.StudentClass.pdb

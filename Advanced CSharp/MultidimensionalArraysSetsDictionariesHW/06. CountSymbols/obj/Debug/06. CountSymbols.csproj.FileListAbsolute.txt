@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\06. CountSymbols\bin\Debug\CountSymbols.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\06. CountSymbols\bin\Debug\CountSymbols.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\06. CountSymbols\bin\Debug\CountSymbols.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\06. CountSymbols\obj\Debug\CountSymbols.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\06. CountSymbols\obj\Debug\CountSymbols.pdb

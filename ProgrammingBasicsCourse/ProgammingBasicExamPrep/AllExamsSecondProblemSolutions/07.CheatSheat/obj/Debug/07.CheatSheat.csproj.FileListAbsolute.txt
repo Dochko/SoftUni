@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\bin\Debug\07.CheatSheat.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\bin\Debug\07.CheatSheat.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\bin\Debug\07.CheatSheat.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\obj\Debug\07.CheatSheat.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\obj\Debug\07.CheatSheat.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\07.CheatSheat\obj\Debug\07.CheatSheat.pdb

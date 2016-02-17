@@ -1,0 +1,6 @@
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\bin\Debug\02.GrandTheftExamo.exe.config
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\bin\Debug\02.GrandTheftExamo.exe
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\bin\Debug\02.GrandTheftExamo.pdb
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\obj\Debug\02.GrandTheftExamo.exe
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\obj\Debug\02.GrandTheftExamo.pdb
+D:\C#\Projects\ProgrammingBasicsExam\02.GrandTheftExamo\obj\Debug\02.GrandTheftExamo.csprojResolveAssemblyReference.cache

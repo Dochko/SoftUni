@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Inheritance-and-Polymorphism</name>
+    </assembly>
+    <members>
+        <member name="T:InheritanceAndPolymorphism.Contracts.ICourse">
+            <summary>
+            The Course Interface.
+            </summary>
+        </member>
+        <member name="P:InheritanceAndPolymorphism.Contracts.ICourse.CourseName">
+            <summary>
+            Gets or sets the name of the course.
+            </summary>
+            <value>
+            The name of the course.
+            </value>
+        </member>
+        <member name="P:InheritanceAndPolymorphism.Contracts.ICourse.TeacherName">
+            <summary>
+            Gets or sets the name of the teacher.
+            </summary>
+            <value>
+            The name of the teacher.
+            </value>
+        </member>
+        <member name="P:InheritanceAndPolymorphism.Contracts.ICourse.Students">
+            <summary>
+            Gets the students.
+            </summary>
+            <value>
+            The students.
+            </value>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.Contracts.ILocalCourse">
+            <summary>
+            The LocalCourse Interface.
+            </summary>
+            <seealso cref="T:InheritanceAndPolymorphism.Contracts.ICourse" />
+        </member>
+        <member name="P:InheritanceAndPolymorphism.Contracts.ILocalCourse.LabName">
+            <summary>
+            Gets or sets the name of the lab.
+            </summary>
+            <value>
+            The name of the lab.
+            </value>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.Contracts.IOffsiteCourse">
+            <summary>
+            The OffsiteCourse Interface.
+            </summary>
+            <seealso cref="T:InheritanceAndPolymorphism.Contracts.ICourse" />
+        </member>
+        <member name="P:InheritanceAndPolymorphism.Contracts.IOffsiteCourse.TownName">
+            <summary>
+            Gets or sets the name of the town.
+            </summary>
+            <value>
+            The name of the town.
+            </value>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.Courses.Course">
+            <summary>
+            The Course Class.
+            </summary>
+            <seealso cref="T:InheritanceAndPolymorphism.Contracts.ICourse" />
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.Course.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:InheritanceAndPolymorphism.Courses.Course"/> class.
+            </summary>
+            <param name="courseName">Name of the course.</param>
+            <param name="teacherName">Name of the teacher.</param>
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.Course.GetStudentsAsString">
+            <summary>
+            Gets the students as string.
+            </summary>
+            <returns>Returns the students as string.</returns>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.Courses.OffsiteCourse">
+            <summary>
+            The OffsiteCourse Class.
+            </summary>
+            <seealso cref="T:InheritanceAndPolymorphism.Courses.Course" />
+            <seealso cref="T:InheritanceAndPolymorphism.Contracts.IOffsiteCourse" />
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.OffsiteCourse.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:InheritanceAndPolymorphism.Courses.OffsiteCourse"/> class.
+            </summary>
+            <param name="courseName">Name of the course.</param>
+            <param name="teacherName">Name of the teacher.</param>
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.OffsiteCourse.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:InheritanceAndPolymorphism.Courses.OffsiteCourse"/> class.
+            </summary>
+            <param name="courseName">Name of the course.</param>
+            <param name="teacherName">Name of the teacher.</param>
+            <param name="townName">Name of the town.</param>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.Courses.LocalCourse">
+            <summary>
+            The LocalCourse Class.
+            </summary>
+            <seealso cref="T:InheritanceAndPolymorphism.Courses.Course" />
+            <seealso cref="T:InheritanceAndPolymorphism.Contracts.ILocalCourse" />
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.LocalCourse.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:InheritanceAndPolymorphism.Courses.LocalCourse"/> class.
+            </summary>
+            <param name="courseName">Name of the course.</param>
+            <param name="teacherName">Name of the teacher.</param>
+        </member>
+        <member name="M:InheritanceAndPolymorphism.Courses.LocalCourse.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:InheritanceAndPolymorphism.Courses.LocalCourse"/> class.
+            </summary>
+            <param name="courseName">Name of the course.</param>
+            <param name="teacherName">Name of the teacher.</param>
+            <param name="labName">Name of the lab.</param>
+        </member>
+        <member name="T:InheritanceAndPolymorphism.CoursesExamples">
+            <summary>
+            A demo of the Course, LocalCource and OffsiteCourse classes.
+            </summary>
+        </member>
+        <member name="M:InheritanceAndPolymorphism.CoursesExamples.Main">
+            <summary>
+            Defines the entry point of the application.
+            </summary>
+        </member>
+    </members>
+</doc>

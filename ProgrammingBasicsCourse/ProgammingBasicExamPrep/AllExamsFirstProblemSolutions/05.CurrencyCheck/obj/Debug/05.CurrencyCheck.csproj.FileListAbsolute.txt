@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\bin\Debug\05.CurrencyCheck.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\bin\Debug\05.CurrencyCheck.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\bin\Debug\05.CurrencyCheck.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\obj\Debug\05.CurrencyCheck.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\obj\Debug\05.CurrencyCheck.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\05.CurrencyCheck\obj\Debug\05.CurrencyCheck.pdb

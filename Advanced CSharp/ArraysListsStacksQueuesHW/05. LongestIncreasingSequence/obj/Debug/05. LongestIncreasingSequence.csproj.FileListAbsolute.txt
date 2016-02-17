@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\obj\Debug\05. LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\05. LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

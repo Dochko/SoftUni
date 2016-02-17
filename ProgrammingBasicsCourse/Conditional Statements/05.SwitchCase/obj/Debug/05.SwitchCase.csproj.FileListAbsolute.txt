@@ -1,0 +1,9 @@
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\bin\Debug\05.SwitchCase.exe.config
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\obj\Debug\05.SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\bin\Debug\05.SwitchCase.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\bin\Debug\05.SwitchCase.pdb
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\obj\Debug\05.SwitchCase.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\05.SwitchCase\obj\Debug\05.SwitchCase.pdb
+E:\Work\C#\Projects\Conditional Statements\05.SwitchCase\bin\Debug\05.SwitchCase.exe.config
+E:\Work\C#\Projects\Conditional Statements\05.SwitchCase\obj\Debug\05.SwitchCase.exe
+E:\Work\C#\Projects\Conditional Statements\05.SwitchCase\obj\Debug\05.SwitchCase.pdb

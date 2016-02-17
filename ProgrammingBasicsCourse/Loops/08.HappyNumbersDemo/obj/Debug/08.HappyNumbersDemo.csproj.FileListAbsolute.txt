@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\bin\Debug\08.HappyNumbersDemo.exe.config
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\bin\Debug\08.HappyNumbersDemo.exe
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\bin\Debug\08.HappyNumbersDemo.pdb
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\obj\Debug\08.HappyNumbersDemo.exe
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\obj\Debug\08.HappyNumbersDemo.pdb
+E:\Work\C#\Projects\Loops\08.HappyNumbersDemo\obj\Debug\08.HappyNumbersDemo.csprojResolveAssemblyReference.cache

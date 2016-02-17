@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\bin\Debug\02.TextModification.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\bin\Debug\02.TextModification.exe
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\bin\Debug\02.TextModification.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\obj\Debug\02.TextModification.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\obj\Debug\02.TextModification.exe
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\02.TextModification\obj\Debug\02.TextModification.pdb

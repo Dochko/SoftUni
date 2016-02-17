@@ -1,0 +1,5 @@
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\LINQQueries.exe.config
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\LINQQueries.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\LINQQueries.pdb
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\LINQQueries.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\LINQQueries.pdb

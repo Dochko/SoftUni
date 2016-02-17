@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\obj\Debug\02. LastDigitOfNumber.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\02. LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

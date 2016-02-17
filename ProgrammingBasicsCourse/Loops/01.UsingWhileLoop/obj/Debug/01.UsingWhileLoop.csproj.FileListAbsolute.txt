@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\bin\Debug\01.UsingWhileLoop.exe.config
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\bin\Debug\01.UsingWhileLoop.exe
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\bin\Debug\01.UsingWhileLoop.pdb
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\obj\Debug\01.UsingWhileLoop.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\obj\Debug\01.UsingWhileLoop.exe
+E:\Work\C#\Projects\Loops\01.UsingWhileLoop\obj\Debug\01.UsingWhileLoop.pdb

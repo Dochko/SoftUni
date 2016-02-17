@@ -1,0 +1,2 @@
+Ако не можете да отворите .CHM документацията и ви дава тази грешка: “This page can’t be displayed Make sure the web address //ieframe.dll/dnserrordiagoff.htm# is correct.”
+бъдете сигурни, че разархивирате домашното в папка, която не съдържа в името си знаците "#" и "%".

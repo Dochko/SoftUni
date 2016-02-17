@@ -1,0 +1,9 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\bin\Debug\01.StripedTowel.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\bin\Debug\01.StripedTowel.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\bin\Debug\01.StripedTowel.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\obj\Debug\01.StripedTowel.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\obj\Debug\01.StripedTowel.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\obj\Debug\01.StripedTowel.pdb
+E:\Work\C#\ProgrammingBasicsCourse\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\bin\Debug\01.StripedTowel.exe.config
+E:\Work\C#\ProgrammingBasicsCourse\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\obj\Debug\01.StripedTowel.exe
+E:\Work\C#\ProgrammingBasicsCourse\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\01.StripedTowel\obj\Debug\01.StripedTowel.pdb

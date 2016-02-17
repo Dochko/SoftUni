@@ -1,0 +1,3 @@
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\Orders.exe.config
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\Orders.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\Orders.pdb

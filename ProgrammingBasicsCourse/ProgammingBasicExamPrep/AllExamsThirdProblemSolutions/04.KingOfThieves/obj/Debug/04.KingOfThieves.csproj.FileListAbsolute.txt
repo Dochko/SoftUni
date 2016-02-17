@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\04.KingOfThieves\bin\Debug\04.KingOfThieves.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\04.KingOfThieves\bin\Debug\04.KingOfThieves.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\04.KingOfThieves\bin\Debug\04.KingOfThieves.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\04.KingOfThieves\obj\Debug\04.KingOfThieves.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\04.KingOfThieves\obj\Debug\04.KingOfThieves.pdb

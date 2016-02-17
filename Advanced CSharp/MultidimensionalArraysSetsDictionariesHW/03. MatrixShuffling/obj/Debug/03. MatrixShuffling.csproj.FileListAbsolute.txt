@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\03. MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\03. MatrixShuffling\bin\Debug\MatrixShuffling.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\03. MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\03. MatrixShuffling\obj\Debug\MatrixShuffling.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\03. MatrixShuffling\obj\Debug\MatrixShuffling.pdb

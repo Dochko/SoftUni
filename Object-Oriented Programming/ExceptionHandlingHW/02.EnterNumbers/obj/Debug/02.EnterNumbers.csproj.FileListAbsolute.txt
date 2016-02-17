@@ -1,0 +1,12 @@
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+C:\Users\Ned\Desktop\02. OOP-Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+E:\Work\C#\Object-Oriented Programming\ExceptionHandlingHW\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\bin\Debug\03.PetarsGame.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\bin\Debug\03.PetarsGame.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\bin\Debug\03.PetarsGame.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\obj\Debug\03.PetarsGame.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\obj\Debug\03.PetarsGame.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsSecondProblemSolutions\03.PetarsGame\obj\Debug\03.PetarsGame.csprojResolveAssemblyReference.cache

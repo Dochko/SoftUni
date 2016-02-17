@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\06.Dumbbell\bin\Debug\06.Dumbbell.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\06.Dumbbell\bin\Debug\06.Dumbbell.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\06.Dumbbell\bin\Debug\06.Dumbbell.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\06.Dumbbell\obj\Debug\06.Dumbbell.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\06.Dumbbell\obj\Debug\06.Dumbbell.pdb

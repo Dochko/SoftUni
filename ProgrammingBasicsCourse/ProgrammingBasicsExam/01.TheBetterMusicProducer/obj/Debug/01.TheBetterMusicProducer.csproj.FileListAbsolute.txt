@@ -1,0 +1,6 @@
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\bin\Debug\01.TheBetterMusicProducer.exe.config
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\bin\Debug\01.TheBetterMusicProducer.exe
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\bin\Debug\01.TheBetterMusicProducer.pdb
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\obj\Debug\01.TheBetterMusicProducer.csprojResolveAssemblyReference.cache
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\obj\Debug\01.TheBetterMusicProducer.exe
+D:\C#\Projects\ProgrammingBasicsExam\01.TheBetterMusicProducer\obj\Debug\01.TheBetterMusicProducer.pdb

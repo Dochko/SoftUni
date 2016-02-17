@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\02.FourFactors\bin\Debug\02.FourFactors.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\02.FourFactors\bin\Debug\02.FourFactors.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\02.FourFactors\bin\Debug\02.FourFactors.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\02.FourFactors\obj\Debug\02.FourFactors.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\02.FourFactors\obj\Debug\02.FourFactors.pdb

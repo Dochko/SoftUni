@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\bin\Debug\14.Tables.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\bin\Debug\14.Tables.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\bin\Debug\14.Tables.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\obj\Debug\14.Tables.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\obj\Debug\14.Tables.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\14.Tables\obj\Debug\14.Tables.pdb

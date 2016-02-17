@@ -1,0 +1,9 @@
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\bin\Debug\01.ComparisonAndLogicalOperators.exe.config
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\bin\Debug\01.ComparisonAndLogicalOperators.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\bin\Debug\01.ComparisonAndLogicalOperators.pdb
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\obj\Debug\01.ComparisonAndLogicalOperators.csprojResolveAssemblyReference.cache
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\obj\Debug\01.ComparisonAndLogicalOperators.exe
+c:\users\dochko\documents\visual studio 2015\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\obj\Debug\01.ComparisonAndLogicalOperators.pdb
+E:\Work\C#\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\bin\Debug\01.ComparisonAndLogicalOperators.exe.config
+E:\Work\C#\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\obj\Debug\01.ComparisonAndLogicalOperators.exe
+E:\Work\C#\Projects\Conditional Statements\01.ComparisonAndLogicalOperators\obj\Debug\01.ComparisonAndLogicalOperators.pdb

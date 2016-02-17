@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Loops\05.ForEachLoop\bin\Debug\05.ForEachLoop.exe.config
+E:\Work\C#\Projects\Loops\05.ForEachLoop\bin\Debug\05.ForEachLoop.exe
+E:\Work\C#\Projects\Loops\05.ForEachLoop\bin\Debug\05.ForEachLoop.pdb
+E:\Work\C#\Projects\Loops\05.ForEachLoop\obj\Debug\05.ForEachLoop.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Loops\05.ForEachLoop\obj\Debug\05.ForEachLoop.exe
+E:\Work\C#\Projects\Loops\05.ForEachLoop\obj\Debug\05.ForEachLoop.pdb

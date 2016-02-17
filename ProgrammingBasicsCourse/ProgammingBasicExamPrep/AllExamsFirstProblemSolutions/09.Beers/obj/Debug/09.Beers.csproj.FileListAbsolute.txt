@@ -1,0 +1,6 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\bin\Debug\09.Beers.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\bin\Debug\09.Beers.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\bin\Debug\09.Beers.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\obj\Debug\09.Beers.csprojResolveAssemblyReference.cache
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\obj\Debug\09.Beers.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\09.Beers\obj\Debug\09.Beers.pdb

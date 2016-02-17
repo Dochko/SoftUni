@@ -1,0 +1,6 @@
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\obj\Debug\01. StringExtensions.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\bin\Debug\StringExtensions.xml
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\bin\Debug\StringExtensions.dll
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\bin\Debug\StringExtensions.pdb
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\obj\Debug\StringExtensions.dll
+E:\Work\C#\HighQualityCode\CodeDocumentationAndCommentsHW\01. StringExtensions\obj\Debug\StringExtensions.pdb

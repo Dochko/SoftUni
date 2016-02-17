@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\04. SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\04. SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\04. SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\04. SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\04. SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

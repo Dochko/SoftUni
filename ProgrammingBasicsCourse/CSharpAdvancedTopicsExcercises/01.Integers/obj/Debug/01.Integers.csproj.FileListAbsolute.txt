@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\bin\Debug\01.Integers.exe.config
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\bin\Debug\01.Integers.exe
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\bin\Debug\01.Integers.pdb
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\obj\Debug\01.Integers.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\obj\Debug\01.Integers.exe
+E:\Work\C#\Projects\CSharpAdvancedTopicsExcercises\01.Integers\obj\Debug\01.Integers.pdb

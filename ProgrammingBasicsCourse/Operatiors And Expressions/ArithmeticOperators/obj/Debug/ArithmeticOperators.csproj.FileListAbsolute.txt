@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\bin\Debug\ArithmeticOperators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\ArithmeticOperators\obj\Debug\ArithmeticOperators.pdb

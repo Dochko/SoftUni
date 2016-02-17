@@ -1,0 +1,5 @@
+D:\C#\Projects\ProgrammingBasicsExam\04.FirefightingOrganization\bin\Debug\04.FirefightingOrganization.exe.config
+D:\C#\Projects\ProgrammingBasicsExam\04.FirefightingOrganization\bin\Debug\04.FirefightingOrganization.exe
+D:\C#\Projects\ProgrammingBasicsExam\04.FirefightingOrganization\bin\Debug\04.FirefightingOrganization.pdb
+D:\C#\Projects\ProgrammingBasicsExam\04.FirefightingOrganization\obj\Debug\04.FirefightingOrganization.exe
+D:\C#\Projects\ProgrammingBasicsExam\04.FirefightingOrganization\obj\Debug\04.FirefightingOrganization.pdb

@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\bin\Debug\06.OtherOperators.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\bin\Debug\06.OtherOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\bin\Debug\06.OtherOperators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\obj\Debug\06.OtherOperators.csprojResolveAssemblyReference.cache
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\obj\Debug\06.OtherOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\06.OtherOperators\obj\Debug\06.OtherOperators.pdb

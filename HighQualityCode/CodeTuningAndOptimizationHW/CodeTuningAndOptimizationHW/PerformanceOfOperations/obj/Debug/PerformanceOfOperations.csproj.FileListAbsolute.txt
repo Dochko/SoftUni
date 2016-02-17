@@ -1,0 +1,9 @@
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\PerformanceApplications\01. PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\PerformanceApplications\01. PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\PerformanceApplications\01. PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.pdb
+E:\Work\C#\HighQualityCode\CodeTuningAndOptimizationHW\CodeTuningAndOptimizationHW\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.csprojResolveAssemblyReference.cache

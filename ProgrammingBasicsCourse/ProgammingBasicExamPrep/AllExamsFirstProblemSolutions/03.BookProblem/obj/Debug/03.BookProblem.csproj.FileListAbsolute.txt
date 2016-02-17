@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\03.BookProblem\bin\Debug\03.BookProblem.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\03.BookProblem\bin\Debug\03.BookProblem.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\03.BookProblem\bin\Debug\03.BookProblem.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\03.BookProblem\obj\Debug\03.BookProblem.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsFirstProblemSolutions\03.BookProblem\obj\Debug\03.BookProblem.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotatingWalkInMatrix", "RotatingWalkInMatrix\RotatingWalkInMatrix.csproj", "{8519381B-7326-4D40-84FF-B266033009DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotatingWalkInMatrix.Tests", "RotatingWalkInMatrix.Tests\RotatingWalkInMatrix.Tests.csproj", "{046FF753-F56C-419F-B93C-B1DA6647077F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8519381B-7326-4D40-84FF-B266033009DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8519381B-7326-4D40-84FF-B266033009DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8519381B-7326-4D40-84FF-B266033009DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8519381B-7326-4D40-84FF-B266033009DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046FF753-F56C-419F-B93C-B1DA6647077F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046FF753-F56C-419F-B93C-B1DA6647077F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046FF753-F56C-419F-B93C-B1DA6647077F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046FF753-F56C-419F-B93C-B1DA6647077F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

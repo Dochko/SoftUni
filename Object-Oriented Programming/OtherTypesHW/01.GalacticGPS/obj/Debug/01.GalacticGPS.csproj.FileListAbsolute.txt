@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\bin\Debug\01.GalacticGPS.exe.config
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\bin\Debug\01.GalacticGPS.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\bin\Debug\01.GalacticGPS.pdb
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\obj\Debug\01.GalacticGPS.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\obj\Debug\01.GalacticGPS.exe
+E:\Work\C#\Object-Oriented Programming\OtherTypesHW\01.GalacticGPS\obj\Debug\01.GalacticGPS.pdb

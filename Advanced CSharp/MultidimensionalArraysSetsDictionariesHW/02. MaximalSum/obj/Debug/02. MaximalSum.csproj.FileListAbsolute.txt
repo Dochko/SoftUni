@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\02. MaximalSum\bin\Debug\MaximalSum.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\02. MaximalSum\bin\Debug\MaximalSum.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\02. MaximalSum\bin\Debug\MaximalSum.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\02. MaximalSum\obj\Debug\MaximalSum.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\02. MaximalSum\obj\Debug\MaximalSum.pdb

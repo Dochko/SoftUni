@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MethodsHW\05. ReverseNumber\bin\Debug\ReverseNumber.exe.config
+E:\Work\CSharp\Advanced CSharp\MethodsHW\05. ReverseNumber\bin\Debug\ReverseNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\05. ReverseNumber\bin\Debug\ReverseNumber.pdb
+E:\Work\CSharp\Advanced CSharp\MethodsHW\05. ReverseNumber\obj\Debug\ReverseNumber.exe
+E:\Work\CSharp\Advanced CSharp\MethodsHW\05. ReverseNumber\obj\Debug\ReverseNumber.pdb

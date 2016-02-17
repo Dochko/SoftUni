@@ -1,0 +1,12 @@
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\bin\Debug\04.SULS.exe.config
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\obj\Debug\04.SULS.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\bin\Debug\04.SULS.exe
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\bin\Debug\04.SULS.pdb
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\obj\Debug\04.SULS.exe
+C:\Users\Ned\Desktop\OOP-Defining-Classes-Homework\04.SULS\obj\Debug\04.SULS.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\bin\Debug\04.SULS.exe.config
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\obj\Debug\04.SULS.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\obj\Debug\04.SULS.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\bin\Debug\04.SULS.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\bin\Debug\04.SULS.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\04.SULS\obj\Debug\04.SULS.csprojResolveAssemblyReference.cache

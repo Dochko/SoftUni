@@ -1,0 +1,9 @@
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.pdb
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.exe
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.pdb
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.dll
+E:\Work\C#\HighQualityCode\RefactoringHW\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.pdb

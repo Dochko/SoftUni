@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\bin\Debug\SortArrayOfNumbers.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\obj\Debug\01. SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\01. SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.pdb

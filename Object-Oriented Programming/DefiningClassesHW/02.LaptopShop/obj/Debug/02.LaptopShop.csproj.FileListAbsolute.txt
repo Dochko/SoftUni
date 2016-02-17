@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\bin\Debug\01.ReformatCode.exe.config
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\bin\Debug\01.ReformatCode.exe
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\bin\Debug\01.ReformatCode.pdb
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\bin\Debug\PowerCollections.dll
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\obj\Debug\01. ReformatCode.csprojResolveAssemblyReference.cache
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\obj\Debug\01.ReformatCode.exe
+E:\Work\C#\HighQualityCode\CodeFormattingHW\01. ReformatCode\obj\Debug\01.ReformatCode.pdb

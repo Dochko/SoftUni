@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions.StringExtensions">
+            <summary>
+            Contains utility methods for the class String.
+            </summary>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Take a string and encode it into a 128-bit fingerprint using the MD5 Hashing algorithm.
+            </summary>
+            <returns>The given string converted in MD5 Hash.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Convert a key string words to a true boolean value.
+            </summary>
+            <param name="input">The values can be: "true", "ok", "yes", "1" and "да". Otherwise it will display false.</param>
+            <returns>Returns true for the specific words.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            Convert a given short number written as a string into a short number.
+            </summary>
+            <param name="input">Short number in string format.</param>
+            <returns>String converted to short.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Convert a given integer number written as a string into a integer number.
+            </summary>
+            <param name="input">Integer number in string format.</param>
+            <returns>String converted to integer.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            Convert a given long number written as a string into a long number.
+            </summary>
+            <param name="input">Long number in string format.</param>
+            <returns>String converted to long.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Convert a given representation of date and time written as a string into its DateTime equivalent.
+            </summary>
+            <param name="input">DateTime in string format.</param>
+            <returns>String converted to DateTime.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalize the first letter in a given string.
+            </summary>
+            <returns>Returns string with capital first letter.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Retrieves substring between two other substrings.
+            </summary>
+            <param name="startString">The starting substring.</param>
+            <param name="endString">The ending substring.</param>
+            <param name="startFrom">Starting position of the search.</param>
+            <returns>The content between the startString and endString.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Convert a word written with Cyrillic letters to a word written in Latin letters.
+            </summary>
+            <returns>String written in Latin letters.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Convert a word written with Latin letters to a word written in Cyrillic letters.
+            </summary>
+            <returns>String written in Cyrillic letters.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Converts a upper and lower Cyrillic characters to Latin and removes all other characters other than the symbols "_" and ".".
+            </summary>
+            <returns>String converted to a valid user name.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Converts all upper and lower Cyrillic characters to Latin and removes all other characters other than the symbols "_", "." and "-".
+            </summary>
+            <returns>String converted to a valid file name.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first characters of a string.
+            </summary>
+            <param name="charsCount">The number of characters to extract.</param>
+            <returns>Returns a string with the extracted characters.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Retrieves the file extension of a file name.
+            </summary>
+            <returns>The extension of the file.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Returns ContentType by file extension.
+            </summary>
+            <returns>ContentType of file.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Convert all characters of a string into bytes.
+            </summary>
+            <returns>Array of bytes of character code.</returns>
+        </member>
+    </members>
+</doc>

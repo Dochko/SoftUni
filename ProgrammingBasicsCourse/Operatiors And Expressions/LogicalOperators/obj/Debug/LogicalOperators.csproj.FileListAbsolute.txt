@@ -1,0 +1,1 @@
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\bin\Debug\LogicalOperators.exe.config

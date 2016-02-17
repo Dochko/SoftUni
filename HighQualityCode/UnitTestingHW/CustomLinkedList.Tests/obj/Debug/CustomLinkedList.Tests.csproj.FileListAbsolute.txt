@@ -1,0 +1,9 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\Dochko\Downloads\HQC SoftUni\11. Unit-Testing-Homework\UnitTestingHW\UnitTestingHW\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb

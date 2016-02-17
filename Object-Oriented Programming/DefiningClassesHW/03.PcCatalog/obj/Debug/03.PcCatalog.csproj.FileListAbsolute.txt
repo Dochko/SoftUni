@@ -1,0 +1,6 @@
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\bin\Debug\03.PcCatalog.exe.config
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\bin\Debug\03.PcCatalog.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\bin\Debug\03.PcCatalog.pdb
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\obj\Debug\03.PcCatalog.csprojResolveAssemblyReference.cache
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\obj\Debug\03.PcCatalog.exe
+E:\Work\C#\Object-Oriented Programming\DefiningClassesHW\03.PcCatalog\obj\Debug\03.PcCatalog.pdb

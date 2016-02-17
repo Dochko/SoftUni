@@ -1,0 +1,5 @@
+E:\Work\C#\Projects\Operatiors And Expressions\05.AssignmentOperators\bin\Debug\05.AssignmentOperators.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\05.AssignmentOperators\bin\Debug\05.AssignmentOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\05.AssignmentOperators\bin\Debug\05.AssignmentOperators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\05.AssignmentOperators\obj\Debug\05.AssignmentOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\05.AssignmentOperators\obj\Debug\05.AssignmentOperators.pdb

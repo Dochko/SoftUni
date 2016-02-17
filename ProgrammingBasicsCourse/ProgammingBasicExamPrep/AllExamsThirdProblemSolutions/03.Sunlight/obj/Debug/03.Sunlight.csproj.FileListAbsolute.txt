@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\03.Sunlight\bin\Debug\03.Sunlight.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\03.Sunlight\bin\Debug\03.Sunlight.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\03.Sunlight\bin\Debug\03.Sunlight.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\03.Sunlight\obj\Debug\03.Sunlight.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\03.Sunlight\obj\Debug\03.Sunlight.pdb

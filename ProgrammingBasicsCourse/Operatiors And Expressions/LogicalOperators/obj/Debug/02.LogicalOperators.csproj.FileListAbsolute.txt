@@ -1,0 +1,6 @@
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\bin\Debug\LogicalOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\bin\Debug\LogicalOperators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\obj\Debug\LogicalOperators.exe
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\obj\Debug\LogicalOperators.pdb
+E:\Work\C#\Projects\Operatiors And Expressions\LogicalOperators\obj\Debug\02.LogicalOperators.csprojResolveAssemblyReference.cache

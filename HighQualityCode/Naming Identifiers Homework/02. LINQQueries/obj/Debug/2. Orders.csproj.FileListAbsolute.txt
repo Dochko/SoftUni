@@ -1,0 +1,12 @@
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\Orders.exe.config
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\Orders.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\Orders.pdb
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\Orders.exe
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\bin\Debug\Orders.pdb
+C:\Users\Dochko\Desktop\HQChomework\Naming Identifiers Homework\2. Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache

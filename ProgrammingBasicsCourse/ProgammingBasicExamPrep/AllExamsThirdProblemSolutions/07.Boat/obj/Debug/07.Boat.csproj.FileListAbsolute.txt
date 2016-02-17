@@ -1,0 +1,5 @@
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\07.Boat\bin\Debug\07.Boat.exe.config
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\07.Boat\bin\Debug\07.Boat.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\07.Boat\bin\Debug\07.Boat.pdb
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\07.Boat\obj\Debug\07.Boat.exe
+E:\Work\C#\ProgammingBasicExamPrep\AllExamsThirdProblemSolutions\07.Boat\obj\Debug\07.Boat.pdb

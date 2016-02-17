@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\05. CollectTheCoins\bin\Debug\CollectTheCoins.exe.config
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\05. CollectTheCoins\bin\Debug\CollectTheCoins.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\05. CollectTheCoins\bin\Debug\CollectTheCoins.pdb
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\05. CollectTheCoins\obj\Debug\CollectTheCoins.exe
+E:\Work\CSharp\Advanced CSharp\MultidimensionalArraysSetsDictionariesHW\05. CollectTheCoins\obj\Debug\CollectTheCoins.pdb

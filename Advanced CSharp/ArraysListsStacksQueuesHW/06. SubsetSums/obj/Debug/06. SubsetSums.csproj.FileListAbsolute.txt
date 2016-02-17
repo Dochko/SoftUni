@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\06. SubsetSums\bin\Debug\SubsetSums.exe.config
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\06. SubsetSums\bin\Debug\SubsetSums.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\06. SubsetSums\bin\Debug\SubsetSums.pdb
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\06. SubsetSums\obj\Debug\SubsetSums.exe
+E:\Work\CSharp\Advanced CSharp\ArraysListsStacksQueuesHW\06. SubsetSums\obj\Debug\SubsetSums.pdb
