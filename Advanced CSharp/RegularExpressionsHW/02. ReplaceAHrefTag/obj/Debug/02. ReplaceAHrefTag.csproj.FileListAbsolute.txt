@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\02. ReplaceAHrefTag\bin\Debug\ReplaceAHrefTag.exe.config
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\02. ReplaceAHrefTag\bin\Debug\ReplaceAHrefTag.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\02. ReplaceAHrefTag\bin\Debug\ReplaceAHrefTag.pdb
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\02. ReplaceAHrefTag\obj\Debug\ReplaceAHrefTag.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\02. ReplaceAHrefTag\obj\Debug\ReplaceAHrefTag.pdb

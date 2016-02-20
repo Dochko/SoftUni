@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\02. StringLength\bin\Debug\StringLength.exe.config
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\02. StringLength\bin\Debug\StringLength.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\02. StringLength\bin\Debug\StringLength.pdb
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\02. StringLength\obj\Debug\StringLength.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\02. StringLength\obj\Debug\StringLength.pdb

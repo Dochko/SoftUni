@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\01. SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\01. SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\01. SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\01. SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\01. SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

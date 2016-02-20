@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\03. CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\03. CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\03. CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\03. CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\03. CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb

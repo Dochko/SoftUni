@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\06. Palindromes\bin\Debug\Palindromes.exe.config
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\06. Palindromes\bin\Debug\Palindromes.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\06. Palindromes\bin\Debug\Palindromes.pdb
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\06. Palindromes\obj\Debug\Palindromes.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\06. Palindromes\obj\Debug\Palindromes.pdb

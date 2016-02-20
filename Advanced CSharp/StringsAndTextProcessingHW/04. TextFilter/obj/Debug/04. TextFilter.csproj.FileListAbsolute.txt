@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\04. TextFilter\bin\Debug\TextFilter.exe.config
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\04. TextFilter\bin\Debug\TextFilter.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\04. TextFilter\bin\Debug\TextFilter.pdb
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\04. TextFilter\obj\Debug\TextFilter.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\04. TextFilter\obj\Debug\TextFilter.pdb

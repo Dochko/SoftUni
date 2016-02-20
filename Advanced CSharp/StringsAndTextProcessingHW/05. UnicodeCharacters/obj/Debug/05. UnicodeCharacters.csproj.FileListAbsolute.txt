@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\05. UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\05. UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\05. UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\05. UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+E:\Work\CSharp\Advanced CSharp\StringsAndTextProcessingHW\05. UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

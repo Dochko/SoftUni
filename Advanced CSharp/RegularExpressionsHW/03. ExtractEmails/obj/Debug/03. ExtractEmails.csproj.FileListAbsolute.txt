@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\03. ExtractEmails\bin\Debug\ExtractEmails.exe.config
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\03. ExtractEmails\bin\Debug\ExtractEmails.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\03. ExtractEmails\bin\Debug\ExtractEmails.pdb
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\03. ExtractEmails\obj\Debug\ExtractEmails.exe
+E:\Work\CSharp\Advanced CSharp\RegularExpressionsHW\03. ExtractEmails\obj\Debug\ExtractEmails.pdb
