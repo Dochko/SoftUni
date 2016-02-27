@@ -8,125 +8,103 @@
     {
         public static void Main()
         {
-            string[] array = Console.ReadLine()
-                .Split(new[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
+            List<string> collection = Console.ReadLine()
+            .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+            .ToList();
 
             string command = Console.ReadLine();
+
             while (command != "end")
             {
-                string[] commandArgs = command.Split();
-
-                switch (commandArgs[0])
+                try
                 {
-                    case "reverse":
-                        int startReverse = int.Parse(commandArgs[2]);
-                        int countReverse = int.Parse(commandArgs[4]);
-                        bool checkReverse = ValidateStartAndCount(array, startReverse, countReverse);
-                        if (checkReverse == false)
-                        {
-                            Console.WriteLine("Invalid input parameters.");
-                            break;
-                        }
-                        else
-                        {
-                            Array.Reverse(array, startReverse, countReverse);
-                            break;
-                        }
-                    case "sort":
-                        int startSort = int.Parse(commandArgs[2]);
-                        int countSort = int.Parse(commandArgs[4]);
-                        bool checkSort = ValidateStartAndCount(array, startSort, countSort);
-                        if (checkSort == false)
-                        {
-                            Console.WriteLine("Invalid input parameters.");
-                            break;
-                        }
-                        else
-                        {
-                            Array.Sort(array, startSort, countSort);
-                            break;
-                        }
-
-                    case "rollLeft":
-                        int rollLeftCount = int.Parse(commandArgs[1]);
-                        if (rollLeftCount < 0)
-                        {
-                            Console.WriteLine("Invalid input parameters.");
-                            break;
-                        }
-                        else
-                        {
-                            for (int i = 0; i < rollLeftCount; i++)
-                            {
-                                LeftShift(array);
-                            }
-
-                            break;
-                        }
-
-                    case "rollRight":
-                        int rollRightCount = int.Parse(commandArgs[1]);
-                        if (rollRightCount < 0)
-                        {
-                            Console.WriteLine("Invalid input parameters.");
-                            break;
-                        }
-                        else
-                        {
-                            for (int i = 0; i < rollRightCount; i++)
-                            {
-                                RightShift(array);
-                            }
-
-                            break;
-                        }
+                    ExecuteCommand(command.Split(), collection);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Invalid input parameters.");
                 }
 
                 command = Console.ReadLine();
             }
 
-            Console.WriteLine("[{0}]", string.Join(", ", array));
+            Console.WriteLine("[{0}]", string.Join(", ", collection));
         }
 
-        private static bool ValidateStartAndCount(string[] array, int start, int count)
+        private static void ExecuteCommand(string[] commandArgs, List<string> collection)
         {
-            if (start < 0 || start >= array.Length)
+            string operation = commandArgs[0];
+
+            switch (operation)
             {
-                return false;
-            }
-            else if (count < 0)
-            {
-                return false;
-            }
-            else
-            {
-                return true;                
+                case "reverse":
+                    ExecuteReverseCommand(commandArgs, collection);
+                    break;
+                case "sort":
+                    ExecuteSortCommand(commandArgs, collection);
+                    break;
+                case "rollLeft":
+                    ExecuteRollLeftCommand(commandArgs, collection);
+                    break;
+                case "rollRight":
+                    ExecuteRollRightCommand(commandArgs, collection);
+                    break;
             }
         }
 
-        private static void LeftShift(string[] array)
+        private static void ExecuteReverseCommand(string[] commandArgs, List<string> collection)
         {
-            string first = array[0];
+            int startIndex = int.Parse(commandArgs[2]);
 
-            for (int i = 0; i < array.Length - 1; i++)
+            // startIndex == collection.Length - 1 && count == 0 does not throw exception; throw it manually
+            if (startIndex == collection.Count)
             {
-                array[i] = array[i + 1];
+                throw new ArgumentException();
             }
-            
-            array[array.Length - 1] = first;
+
+            int count = int.Parse(commandArgs[4]);
+
+            collection.Reverse(startIndex, count);
         }
 
-        private static void RightShift(string[] array)
+        private static void ExecuteSortCommand(string[] commandArgs, List<string> collection)
         {
-            string last = array[array.Length - 1];
+            int startIndex = int.Parse(commandArgs[2]);
 
-            for (int i = array.Length - 1; i > 0; i--)
+            // startIndex == collection.Length - 1 && count == 0 does not throw exception; throw it manually
+            if (startIndex == collection.Count)
             {
-                array[i] = array[i - 1];
+                throw new ArgumentException();
             }
 
-            array[0] = last;
+            int count = int.Parse(commandArgs[4]);
+
+            collection.Sort(startIndex, count, StringComparer.InvariantCulture);
+        }
+
+        private static void ExecuteRollLeftCommand(string[] commandArgs, List<string> collection)
+        {
+            int numberOfRolls = int.Parse(commandArgs[1]) % collection.Count;
+
+            var elementsToMove = collection
+                .Take(numberOfRolls)
+                .ToArray();
+
+            collection.AddRange(elementsToMove);
+            collection.RemoveRange(0, numberOfRolls);
+        }
+
+        private static void ExecuteRollRightCommand(string[] commandArgs, List<string> collection)
+        {
+            int numberOfRolls = int.Parse(commandArgs[1]) % collection.Count;
+
+            var elementsToMove = collection
+                .Skip(collection.Count - numberOfRolls)
+                .Take(numberOfRolls)
+                .ToArray();
+
+            collection.InsertRange(0, elementsToMove);
+            collection.RemoveRange(collection.Count - numberOfRolls, numberOfRolls);
         }
     }
 }

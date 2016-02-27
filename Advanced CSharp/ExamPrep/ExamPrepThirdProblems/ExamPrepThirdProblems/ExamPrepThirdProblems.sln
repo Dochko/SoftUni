@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrepThirdProblems", "ExamPrepThirdProblems\ExamPrepThirdProblems.csproj", "{F424E3D2-DF53-4A27-B5D8-B109AC1F232E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{635E97B2-4619-47A5-932F-A2AD0321FAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTransformer", "TextTransformer\TextTransformer.csproj", "{322CDC40-35E1-4838-8955-5DCBFD47FAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F424E3D2-DF53-4A27-B5D8-B109AC1F232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F424E3D2-DF53-4A27-B5D8-B109AC1F232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F424E3D2-DF53-4A27-B5D8-B109AC1F232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F424E3D2-DF53-4A27-B5D8-B109AC1F232E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635E97B2-4619-47A5-932F-A2AD0321FAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635E97B2-4619-47A5-932F-A2AD0321FAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635E97B2-4619-47A5-932F-A2AD0321FAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635E97B2-4619-47A5-932F-A2AD0321FAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322CDC40-35E1-4838-8955-5DCBFD47FAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322CDC40-35E1-4838-8955-5DCBFD47FAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322CDC40-35E1-4838-8955-5DCBFD47FAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322CDC40-35E1-4838-8955-5DCBFD47FAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

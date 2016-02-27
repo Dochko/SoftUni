@@ -4,3 +4,6 @@ E:\Work\C#\AdvancedCShapFirstExamPrep\CommandInterpreter\bin\Debug\CommandInterp
 E:\Work\C#\AdvancedCShapFirstExamPrep\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
 E:\Work\C#\AdvancedCShapFirstExamPrep\CommandInterpreter\obj\Debug\CommandInterpreter.exe
 E:\Work\C#\AdvancedCShapFirstExamPrep\CommandInterpreter\obj\Debug\CommandInterpreter.pdb
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFirstProblems\AdvancedCShapFirstExamPrep\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFirstProblems\AdvancedCShapFirstExamPrep\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFirstProblems\AdvancedCShapFirstExamPrep\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

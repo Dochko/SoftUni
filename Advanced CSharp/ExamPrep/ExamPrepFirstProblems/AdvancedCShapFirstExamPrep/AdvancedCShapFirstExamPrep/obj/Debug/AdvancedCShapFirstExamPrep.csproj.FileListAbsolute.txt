@@ -1,6 +1,0 @@
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\AdvancedCShapFirstExamPrep.exe.config
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\AdvancedCShapFirstExamPrep.exe
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\AdvancedCShapFirstExamPrep.pdb
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\AdvancedCShapFirstExamPrep.csprojResolveAssemblyReference.cache
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\AdvancedCShapFirstExamPrep.exe
-E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\AdvancedCShapFirstExamPrep.pdb
