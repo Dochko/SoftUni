@@ -1,0 +1,6 @@
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\ArrayManipulator.exe.config
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\ArrayManipulator.exe
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\bin\Debug\ArrayManipulator.pdb
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\ArrayManipulator.exe
+E:\Work\C#\AdvancedCShapFirstExamPrep\AdvancedCShapFirstExamPrep\obj\Debug\ArrayManipulator.pdb

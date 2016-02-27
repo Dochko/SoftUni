@@ -1,0 +1,6 @@
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\bin\Debug\ArraySlider.exe.config
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\bin\Debug\ArraySlider.exe
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\bin\Debug\ArraySlider.pdb
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\obj\Debug\ArraySlider.exe
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\obj\Debug\ArraySlider.pdb
+E:\Work\C#\AdvancedCShapFirstExamPrep\ArraySlider\obj\Debug\ArraySlider.csprojResolveAssemblyReference.cache

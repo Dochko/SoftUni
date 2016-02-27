@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe.config
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.pdb
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\02. Line-Numbers\bin\Debug\LineNumbers.exe.config
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\02. Line-Numbers\bin\Debug\LineNumbers.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\02. Line-Numbers\bin\Debug\LineNumbers.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\02. Line-Numbers\obj\Debug\LineNumbers.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\02. Line-Numbers\obj\Debug\LineNumbers.pdb

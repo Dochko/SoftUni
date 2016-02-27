@@ -1,0 +1,5 @@
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe.config
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\OlympicsAreComing\bin\Debug\OlympicsAreComing.pdb
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\OlympicsAreComing\obj\Debug\OlympicsAreComing.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\OlympicsAreComing\obj\Debug\OlympicsAreComing.pdb

@@ -1,0 +1,9 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\bin\Debug\OddLines.exe.config
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\bin\Debug\OddLines.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\bin\Debug\OddLines.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\obj\Debug\01. Odd-Lines.csprojResolveAssemblyReference.cache
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\obj\Debug\OddLines.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\01. Odd-Lines\obj\Debug\OddLines.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\StreamsAndFilesHW\01. Odd-Lines\bin\Debug\OddLines.exe.config
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\StreamsAndFilesHW\01. Odd-Lines\obj\Debug\OddLines.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\StreamsAndFilesHW\01. Odd-Lines\obj\Debug\OddLines.pdb

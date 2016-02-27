@@ -1,0 +1,5 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\07. Directory-Traversal\bin\Debug\DirectoryTraversal.exe.config
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\07. Directory-Traversal\bin\Debug\DirectoryTraversal.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\07. Directory-Traversal\bin\Debug\DirectoryTraversal.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\07. Directory-Traversal\obj\Debug\DirectoryTraversal.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\07. Directory-Traversal\obj\Debug\DirectoryTraversal.pdb

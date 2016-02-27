@@ -1,0 +1,5 @@
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\05. Slicing-File\bin\Debug\SlicingFile.exe.config
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\05. Slicing-File\bin\Debug\SlicingFile.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\05. Slicing-File\bin\Debug\SlicingFile.pdb
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\05. Slicing-File\obj\Debug\SlicingFile.exe
+C:\Users\Dochko\Downloads\HQC SoftUni\Advanced CSharp Materials\CSharp-Advanced-master\06. Streams-And-Files\05. Slicing-File\obj\Debug\SlicingFile.pdb

@@ -1,0 +1,6 @@
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\bin\Debug\PopulationCounter.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\bin\Debug\PopulationCounter.pdb
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\obj\Debug\PopulationCounter.exe
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\obj\Debug\PopulationCounter.pdb
+E:\Work\CSharp\Advanced CSharp\ExamPrep\ExamPrepFourthProblems\AdvancedCShapFourthExamPrep\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache

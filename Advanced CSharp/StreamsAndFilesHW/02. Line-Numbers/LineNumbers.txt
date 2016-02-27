@@ -1,0 +1,53 @@
+1 namespace LineNumbers
+2 {
+3     using System;
+4     using System.IO;
+5     using System.Text;
+6 
+7     public class LineNumbers
+8     {
+9         private static void Main()
+10         {
+11             StreamReader reader = null;
+12             StreamWriter writer = null;
+13 
+14             try
+15             {
+16                 reader = new StreamReader(@"..\..\LineNumbers.cs", Encoding.GetEncoding("windows-1251"));
+17             }
+18             catch (FileNotFoundException)
+19             {
+20                 Console.WriteLine("File not found.");
+21             }
+22 
+23             try
+24             {
+25                 writer = new StreamWriter(@"..\..\LineNumbers.txt");
+26             }
+27             catch (IOException)
+28             {
+29                 Console.WriteLine("Unable to create output file.");
+30             }
+31 
+32             string s;
+33             int lineNumber = 1;
+34             using (reader)
+35             using (writer)
+36             {
+37                 do
+38                 {
+39                     s = reader.ReadLine();
+40                     writer.WriteLine("{0} {1}", lineNumber, s);
+41                     lineNumber++;
+42                 }
+43                 while (s != null);
+44             }
+45 
+46             Console.WriteLine("Task complete:\n");
+47 
+48             string fileContents = File.ReadAllText(@"..\..\LineNumbers.txt");
+49             Console.WriteLine(fileContents);
+50         }
+51     }
+52 }
+53 
