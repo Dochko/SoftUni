@@ -1,6 +1,6 @@
 ﻿namespace TheSlum
 {
-    using GameEngine;
+    using TheSlum.GameEngine;
 
     public class TheSlumRun
     {

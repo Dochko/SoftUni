@@ -2,67 +2,67 @@
 {
     public class AdvancedEngine : Engine
     {
-        protected override void ExecuteCommand(string[] inputParams)
+        protected void AddintItemToCharacter(string[] inputParams)
         {
-            base.ExecuteCommand(inputParams);
-            switch (inputParams[0])
+            var owner = inputParams[1];
+            var type = inputParams[2];
+            var id = inputParams[3];
+            var index = this.characterList.FindIndex(x => x.Id == owner);
+
+            switch (type)
             {
-                case "create":
-                    CreateCharacter(inputParams);
+                case "injection":
+                    this.characterList[index].AddToInventory(new Injection(id));
                     break;
-                case "add":
-                    AddintItemToCharacter(inputParams);
+                case "pill":
+                    this.characterList[index].AddToInventory(new Pill(id));
+                    break;
+                case "axe":
+                    this.characterList[index].AddToInventory(new Axe(id));
+                    break;
+                case "shield":
+                    this.characterList[index].AddToInventory(new Shield(id));
                     break;
             }
         }
 
         protected override void CreateCharacter(string[] inputParams)
         {
-            string type = inputParams[1];
-            string name = inputParams[2];
-            int x = int.Parse(inputParams[3]);
-            int y = int.Parse(inputParams[4]);
-            string team = inputParams[5];
+            var type = inputParams[1];
+            var name = inputParams[2];
+            var x = int.Parse(inputParams[3]);
+            var y = int.Parse(inputParams[4]);
+            var team = inputParams[5];
 
             switch (type)
             {
                 case "mage":
-                    Mage mage = new Mage(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
-                    characterList.Add(mage);
+                    var mage = new Mage(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
+                    this.characterList.Add(mage);
                     break;
 
                 case "warrior":
-                    Warrior warrior = new Warrior(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
-                    characterList.Add(warrior);
+                    var warrior = new Warrior(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
+                    this.characterList.Add(warrior);
                     break;
 
                 case "healer":
-                    Healer healer = new Healer(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
-                    characterList.Add(healer);
+                    var healer = new Healer(name, x, y, team == "Blue" ? Team.Blue : Team.Red);
+                    this.characterList.Add(healer);
                     break;
             }
         }
 
-        protected void AddintItemToCharacter(string[] inputParams)
+        protected override void ExecuteCommand(string[] inputParams)
         {
-            string owner = inputParams[1];
-            string type = inputParams[2];
-            string id = inputParams[3];
-            int index = characterList.FindIndex(x => x.Id == owner);
-
-            switch (type)
+            base.ExecuteCommand(inputParams);
+            switch (inputParams[0])
             {
-                case "injection":
-                    characterList[index].AddToInventory(new Injection(id));
+                case "create":
+                    this.CreateCharacter(inputParams);
                     break;
-                case "pill":
-                    characterList[index].AddToInventory(new Pill(id));
-                    break;
-                case "axe":
-                    characterList[index].AddToInventory(new Axe(id));
-                    break;
-                case "shield":
-                    characterList[index].AddToInventory(new Shield(id));
+                case "add":
+                    this.AddintItemToCharacter(inputParams);
                     break;
             }
         }

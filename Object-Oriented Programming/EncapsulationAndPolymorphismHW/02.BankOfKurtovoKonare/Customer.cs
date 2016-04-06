@@ -2,6 +2,8 @@
 {
     public enum Customer
     {
-        Individual, Company
+        Individual, 
+
+        Company
     }
 }

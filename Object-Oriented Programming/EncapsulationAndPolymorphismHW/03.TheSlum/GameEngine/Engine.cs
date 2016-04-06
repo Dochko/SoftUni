@@ -3,74 +3,58 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
+
     using Interfaces;
 
     public class Engine
     {
-        protected List<Character> characterList = new List<Character>();
+        protected readonly List<Character> characterList = new List<Character>();
+
         protected List<Bonus> timeoutItems;
 
         private const int GameTurns = 4;
 
-        public virtual void Run()
+        public void InitializeTimeoutItems()
         {
-            ReadUserInput();
-            InitializeTimeoutItems();
-
-            for (int i = 0; i < GameTurns; i++)
-            {
-                foreach (var character in characterList)
-                {
-                    if (character.IsAlive)
-                    {
-                        ProcessTargetSearch(character);
-                    }
-                }
-
-                ProcessItemTimeout(timeoutItems);
-            }
-
-            PrintGameOutcome();
+            this.timeoutItems =
+                this.characterList.SelectMany(c => c.Inventory).Where(i => i is Bonus).Cast<Bonus>().ToList();
         }
 
         public void ProcessItemTimeout(List<Bonus> timeoutItems)
         {
-            for (int i = 0; i < timeoutItems.Count; i++)
+            for (var i = 0; i < timeoutItems.Count; i++)
             {
                 timeoutItems[i].Countdown--;
                 if (timeoutItems[i].Countdown == 0)
                 {
                     var item = timeoutItems[i];
                     item.HasTimedOut = true;
-                    var itemHolder = GetCharacterByItem(item);
+                    var itemHolder = this.GetCharacterByItem(item);
                     itemHolder.RemoveFromInventory(item);
                     i--;
                 }
             }
         }
 
-        public void InitializeTimeoutItems()
+        public virtual void Run()
         {
-            timeoutItems = characterList
-                .SelectMany(c => c.Inventory)
-                .Where(i => i is Bonus)
-                .Cast<Bonus>()
-                .ToList();
-        }
+            this.ReadUserInput();
+            this.InitializeTimeoutItems();
 
-        protected virtual void ExecuteCommand(string[] inputParams)
-        {
-            switch (inputParams[0])
+            for (var i = 0; i < GameTurns; i++)
             {
-                case "status":
-                    PrintCharactersStatus(characterList);
-                    break;
-            }
-        }
+                foreach (var character in this.characterList)
+                {
+                    if (character.IsAlive)
+                    {
+                        this.ProcessTargetSearch(character);
+                    }
+                }
 
-        protected virtual void CreateCharacter(string[] inputParams)
-        {
-            throw new NotImplementedException();
+                this.ProcessItemTimeout(this.timeoutItems);
+            }
+
+            this.PrintGameOutcome();
         }
 
         protected void AddItem(string[] inputParams)
@@ -78,24 +62,65 @@
             throw new NotImplementedException();
         }
 
-        protected void ProcessTargetSearch(Character currentCharacter)
+        protected virtual void CreateCharacter(string[] inputParams)
         {
-            var availableTargets = characterList
-                .Where(t => IsWithinRange(currentCharacter.X, currentCharacter.Y, t.X, t.Y, currentCharacter.Range))
-                .ToList();
+            throw new NotImplementedException();
+        }
 
-            if (availableTargets.Count == 0)
+        protected virtual void ExecuteCommand(string[] inputParams)
+        {
+            switch (inputParams[0])
             {
-                return;
+                case "status":
+                    this.PrintCharactersStatus(this.characterList);
+                    break;
+            }
+        }
+
+        protected Character GetCharacterById(string characterId)
+        {
+            return this.characterList.FirstOrDefault(x => x.Id == characterId);
+        }
+
+        protected Character GetCharacterByItem(Item item)
+        {
+            return this.characterList.FirstOrDefault(x => x.Inventory.Contains(item));
+        }
+
+        protected bool IsWithinRange(int attackerX, int attackerY, int targetX, int targetY, int range)
+        {
+            var distance =
+                Math.Sqrt((attackerX - targetX) * (attackerX - targetX) + (attackerY - targetY) * (attackerY - targetY));
+
+            return distance <= range;
+        }
+
+        protected void PrintCharactersStatus(IEnumerable<Character> characters)
+        {
+            foreach (var character in characters)
+            {
+                Console.WriteLine(character.ToString());
+            }
+        }
+
+        protected void PrintGameOutcome()
+        {
+            var charactersAlive = this.characterList.Where(c => c.IsAlive);
+            var redTeamCount = charactersAlive.Count(x => x.Team == Team.Red);
+            var blueTeamCount = charactersAlive.Count(x => x.Team == Team.Blue);
+
+            if (redTeamCount == blueTeamCount)
+            {
+                Console.WriteLine("Tie game!");
+            }
+            else
+            {
+                var winningTeam = redTeamCount > blueTeamCount ? "Red" : "Blue";
+                Console.WriteLine(winningTeam + " team wins the game!");
             }
 
-            var target = currentCharacter.GetTarget(availableTargets);
-            if (target == null)
-            {
-                return;
-            }
-
-            ProcessInteraction(currentCharacter, target);
+            var aliveCharacters = this.characterList.Where(c => c.IsAlive);
+            this.PrintCharactersStatus(aliveCharacters);
         }
 
         protected void ProcessInteraction(Character currentCharacter, Character target)
@@ -114,62 +139,35 @@
             }
         }
 
-        protected bool IsWithinRange(int attackerX, int attackerY, int targetX, int targetY, int range)
+        protected void ProcessTargetSearch(Character currentCharacter)
         {
-            double distance = Math.Sqrt(
-                (attackerX - targetX) * (attackerX - targetX) +
-                (attackerY - targetY) * (attackerY - targetY));
+            var availableTargets =
+                this.characterList.Where(
+                    t => this.IsWithinRange(currentCharacter.X, currentCharacter.Y, t.X, t.Y, currentCharacter.Range))
+                    .ToList();
 
-            return distance <= range;
-        }
-
-        protected Character GetCharacterById(string characterId)
-        {
-            return characterList.FirstOrDefault(x => x.Id == characterId);
-        }
-
-        protected Character GetCharacterByItem(Item item)
-        {
-            return characterList.FirstOrDefault(x => x.Inventory.Contains(item));
-        }
-
-        protected void PrintCharactersStatus(IEnumerable<Character> characters)
-        {
-            foreach (var character in characters)
+            if (availableTargets.Count == 0)
             {
-                Console.WriteLine(character.ToString());
-            }
-        }
-
-        protected void PrintGameOutcome()
-        {
-            var charactersAlive = characterList.Where(c => c.IsAlive);
-            var redTeamCount = charactersAlive.Count(x => x.Team == Team.Red);
-            var blueTeamCount = charactersAlive.Count(x => x.Team == Team.Blue);
-
-            if (redTeamCount == blueTeamCount)
-            {
-                Console.WriteLine("Tie game!");
-            }
-            else
-            {
-                string winningTeam = redTeamCount > blueTeamCount ? "Red" : "Blue";
-                Console.WriteLine(winningTeam + " team wins the game!");
+                return;
             }
 
-            var aliveCharacters = characterList.Where(c => c.IsAlive);
-            PrintCharactersStatus(aliveCharacters);
+            var target = currentCharacter.GetTarget(availableTargets);
+            if (target == null)
+            {
+                return;
+            }
+
+            this.ProcessInteraction(currentCharacter, target);
         }
 
         private void ReadUserInput()
         {
-            string inputLine = Console.ReadLine();
+            var inputLine = Console.ReadLine();
             while (inputLine != string.Empty)
             {
-                string[] parameters = inputLine
-                    .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                var parameters = inputLine.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-                ExecuteCommand(parameters);
+                this.ExecuteCommand(parameters);
                 inputLine = Console.ReadLine();
             }
         }

@@ -10,3 +10,5 @@ E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum
 E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.exe
 E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.pdb
 E:\Work\C#\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+E:\Work\CSharp\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.exe
+E:\Work\CSharp\Object-Oriented Programming\EncapsulationAndPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.pdb

@@ -1,33 +1,36 @@
-﻿using BankOfKurtovoKonare.Interfaces;
-
-namespace BankOfKurtovoKonare.AccountTypes
+﻿namespace BankOfKurtovoKonare.AccountTypes
 {
-    public class Loan : Account,IDepositable
+    #region
+
+    using BankOfKurtovoKonare.Interfaces;
+
+    #endregion
+
+    public class Loan : Account, IDepositable
     {
         public Loan(decimal balance, decimal interestRate, Customer customer)
-           : base(balance, interestRate, customer)
+            : base(balance, interestRate, customer)
         {
-
-        }
-
-        public void DepositMoney(decimal money)
-        {
-            Balance += money;
         }
 
         public override decimal CalculateRate(int months)
         {
-            if (Customer == Customer.Individual && months <= 3)
+            if (this.Customer == Customer.Individual && months <= 3)
             {
                 return 0;
             }
 
-            else if (Customer == Customer.Individual && months <= 2)
+            if (this.Customer == Customer.Individual && months <= 2)
             {
                 return 0;
             }
 
             return base.CalculateRate(months);
+        }
+
+        public void DepositMoney(decimal money)
+        {
+            this.Balance += money;
         }
     }
 }

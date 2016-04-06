@@ -4,7 +4,7 @@
     {
         protected GameObject(string id)
         {
-            Id = id;
+            this.Id = id;
         }
 
         public string Id { get; private set; }
